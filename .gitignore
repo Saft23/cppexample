@@ -1,6 +1,7 @@
 bin
 .vscode
 tags
+.ycm_extra_config
 
 # CMAKE
 CMakeCache.txt
